@@ -13,3 +13,6 @@ The schema is now set up!
 
 Here's the ERD of the HR schema used:
 ![ERD - Oracle HR Schema](./images/erd.png)
+
+
+#### Complete hr_sample_use_cases_part_1 and hr_sample_use_cases_part_2 queries
